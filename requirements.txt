@@ -63,7 +63,7 @@ pydantic_core==2.20.1
 Pygments==2.18.0
 python-dateutil==2.9.0.post0
 python-dotenv==1.0.1
-pytz==2024.1
+pytz==2026.5
 PyYAML==6.0.2
 pyzmq==26.2.0
 pywin32==306; platform_system == "Windows"
